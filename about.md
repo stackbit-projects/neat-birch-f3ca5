@@ -32,6 +32,6 @@ seo:
 layout: page
 ---
 
-**Niranjan** is a Senior Cyber Security Professional with more than 1.5 decades of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulation & Compliance. 
+**Niranjan** is a Senior Cyber Security Professional with more than 1.5 decades of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulatory & Compliance. 
 
 *Thank You for reading!*
