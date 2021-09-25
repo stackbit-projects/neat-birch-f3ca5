@@ -44,5 +44,3 @@ As a hobby, John Doe authors the most influential design blog in Sweden with ove
 
 
 **Niranjan** is a Senior Cyber Security Professional with more than 1.5 decades of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulation & Compliance Experience with PCI-DSS, SOX, SOC2, GDPR, ISO, Advanced Cloud Security Auditing (CSA STAR). 
-
-Certified AWS Certified Security – Specialty, CISA, CISM, CRISC, CGEIT, CDPSE, CIPR, ITIL, LA ISO 27001:2013, CSOE, AWS Certified Solutions Architect, ATT&CK Cyber Threat Intelligence, ATT&CK Security Operations Center Assessments, Certified Advanced Cloud Security Auditing (CSA STAR), VMware and Scrum Master. 
