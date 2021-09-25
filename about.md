@@ -32,7 +32,7 @@ seo:
 layout: page
 ---
 
-The name’s **Niranjan Ganesan**. I am a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a Cyber Security designer.
+The name’s **Niranjan Ganesan**. I am a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a Cyber Security.
 
 
 
