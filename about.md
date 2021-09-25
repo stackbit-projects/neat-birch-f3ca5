@@ -34,8 +34,6 @@ layout: page
 
 The name’s **Niranjan Ganesan**. I am a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a Cyber Security Professional.
 
-
-
-Senior Cyber Security Professional with more than 1.5 decades of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulatory & Compliance. 
+I have more than 1.5 decades of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulatory & Compliance. 
 
 *Thank You for reading!*
