@@ -43,7 +43,7 @@ As a hobby, John Doe authors the most influential design blog in Sweden with ove
 *Thank You for reading!*
 
 
-**John Doe** is a Senior Art Director from
+**Niranjan** is a Senior Art Director from
 
 More than 15+ years of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulation & Compliance Experience with PCI-DSS, SOX, SOC2, GDPR, ISO, Advanced Cloud Security Auditing (CSA STAR). 
 
