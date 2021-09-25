@@ -43,4 +43,4 @@ As a hobby, John Doe authors the most influential design blog in Sweden with ove
 *Thank You for reading!*
 
 
-**Niranjan** is a Senior Cyber Security Professional with more than 1.5 decades of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulation & Compliance Experience with PCI-DSS, SOX, SOC2, GDPR, ISO, Advanced Cloud Security Auditing (CSA STAR). 
+**Niranjan** is a Senior Cyber Security Professional with more than 1.5 decades of experience with strong expertise in Cloud Security & Compliance, IT infrastructure management, CyberSecurity Management, Security Governance, Audit & Compliance and Enterprise architecture. Regulation & Compliance. 
