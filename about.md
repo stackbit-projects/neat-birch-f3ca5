@@ -32,7 +32,7 @@ seo:
 layout: page
 ---
 
-**Niranjan**The name’s JOE NYAGGAH. I am a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a graphic designer.
+The name’s JOE NYAGGAH. I am a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a graphic designer.
 
 
 
