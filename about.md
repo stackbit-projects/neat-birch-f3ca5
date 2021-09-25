@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: images/about.png
+img_path: images/about-contact.png
 img_alt: A man standing on a rock outside the cave
 seo:
   title: About Me
